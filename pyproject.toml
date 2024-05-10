@@ -16,6 +16,7 @@ dependencies = [
     "pyyaml",
     "odcs[client]",
     "kubernetes",
+    "security==1.2.1",
 ]
 
 [project.scripts]
